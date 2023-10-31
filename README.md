@@ -21,19 +21,19 @@
 - 웹에 접속한 이용자들 끼리 소통할 수 있는 실시간 채팅 기능
 
 ● 개발환경
-windows10
+ - windows10
 
 ● 개발 툴 
-vsCode
+ - vsCode
 
 ● 개발 언어
-ReactJS, NodeJs, 
+ - ReactJS, NodeJs, 
 
 ● 데이터베이스
-mysql
+ - mysql
 
 ●서버
-AWS
+ - AWS
 
 ● 개발 보고서
 
