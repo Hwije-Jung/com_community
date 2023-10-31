@@ -4,6 +4,7 @@
 : 게시물 업로드와 댓글 기능이 있으며 실시간으로 소통할 수 있는 채팅기능이 있습니다.
 
 ● 기능화면
+
 ![image](https://github.com/Hwije-Jung/com_community/assets/66118485/4e97328a-6d1e-4ca1-8cfd-09456b85dde8)
 
 ![image](https://github.com/Hwije-Jung/com_community/assets/66118485/6399a996-5aed-4877-89e7-2f3411e75a2e)
