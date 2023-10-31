@@ -22,18 +22,23 @@
 
 ● 개발환경
  - windows10
+   
 
 ● 개발 툴 
  - vsCode
+   
 
 ● 개발 언어
- - ReactJS, NodeJs, 
+ - ReactJS, NodeJs,
+   
 
 ● 데이터베이스
  - mysql
+   
 
 ●서버
  - AWS
+   
 
 ● 개발 보고서
 
