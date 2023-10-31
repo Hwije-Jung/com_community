@@ -4,14 +4,15 @@
 : 게시물 업로드와 댓글 기능이 있으며 실시간으로 소통할 수 있는 채팅기능이 있습니다.
 
 ● 기능화면
+![image](https://github.com/Hwije-Jung/com_community/assets/66118485/4e97328a-6d1e-4ca1-8cfd-09456b85dde8)
 
-![image](https://github.com/Hwije-Jung/com_community/assets/66118485/4e21914c-ed79-4d12-82da-114d992b59cb)
+![image](https://github.com/Hwije-Jung/com_community/assets/66118485/6399a996-5aed-4877-89e7-2f3411e75a2e)
 
-![image](https://github.com/Hwije-Jung/com_community/assets/66118485/79bd44c7-e0f8-4e60-9697-3e4c0511c40e)
+![image](https://github.com/Hwije-Jung/com_community/assets/66118485/6775f0ea-aa4c-4caa-a882-42bc0a403973)
 
-![image](https://github.com/Hwije-Jung/com_community/assets/66118485/30a7cd9c-d54c-42f4-a0e1-bc5b55d09267)
+![image](https://github.com/Hwije-Jung/com_community/assets/66118485/ed411e47-6b76-4e9b-8938-b7e77ff8c471)
 
-![image](https://github.com/Hwije-Jung/com_community/assets/66118485/cc21ed7b-41be-44a8-9ac0-553c82e18b8f)
+![image](https://github.com/Hwije-Jung/com_community/assets/66118485/f82559bf-1961-4fb7-9255-c8c6347cd25a)
 
 
 ● 주요기능:
